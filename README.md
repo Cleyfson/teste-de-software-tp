@@ -11,8 +11,8 @@ O sistema permite que usuários interajam com uma lista de filmes favoritos, int
 
 Funcionalidades principais:  
 - Cadastro e autenticação de usuários.
-* Listar filmes, mostrar detalhes dos filmes.   
-* CRUD de favoritos: adicionar, listar e remover favoritos.
+- Listar filmes, mostrar detalhes dos filmes.   
+- CRUD de favoritos: adicionar, listar e remover favoritos.
 - Integração com API externa (TMDB) para buscar informações de filmes.  
 - Estrutura baseada em *Domain-Driven Design (DDD)*, separando responsabilidades entre camadas: Application, Domain e Infra.  
 
